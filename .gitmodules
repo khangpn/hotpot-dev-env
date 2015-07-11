@@ -1,0 +1,3 @@
+[submodule "hotpot"]
+	path = hotpot
+	url = git@github.com:khangpn/hotpot.git
